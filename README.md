@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nikitabakanov
+- 👀 I’m interested in functional programming
+- 🌱 I’m currently learning java
